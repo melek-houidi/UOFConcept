@@ -1,0 +1,15 @@
+E:\visual studio\ConceptUoF\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\visual studio\ConceptUoF\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\ConceptUoF\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\visual studio\ConceptUoF\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\visual studio\ConceptUoF\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\visual studio\ConceptUoF\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\visual studio\ConceptUoF\Domain\bin\Debug\net5.0\Domain.dll
+E:\visual studio\ConceptUoF\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\visual studio\ConceptUoF\Domain\bin\Debug\net5.0\Domain.pdb
+E:\visual studio\ConceptUoF\Domain\bin\Debug\net5.0\GenericRepository.dll
+E:\visual studio\ConceptUoF\Domain\bin\Debug\net5.0\GenericRepository.pdb
+E:\visual studio\ConceptUoF\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+E:\visual studio\ConceptUoF\Domain\obj\Debug\net5.0\Domain.dll
+E:\visual studio\ConceptUoF\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\visual studio\ConceptUoF\Domain\obj\Debug\net5.0\Domain.pdb
